@@ -1,6 +1,6 @@
 import { useState } from "react";
 import classNames from "classnames";
-import { NetlifyLogo, WizardButton, WizardLabel } from "./elements";
+import { WizardButton, WizardLabel } from "./elements";
 import { COLOR_THEMES, FONT_THEMES } from "../../themes";
 
 function ThemeIcon({ onClick, style }) {
